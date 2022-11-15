@@ -1,1 +1,6 @@
 Testcase
+
+%%bash
+cd /sparsity/scripts
+chmod +x my_test.sh
+time ./my_test.sh
