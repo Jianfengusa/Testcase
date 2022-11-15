@@ -1,0 +1,133 @@
+architecture:
+  version: 0.3
+  subtree:
+    - name: eyeriss_168
+      attributes:
+        technology: 45nm
+      local:
+        - name: DRAM
+          class: DRAM
+          attributes:
+            width: 128000
+            block_size: 4
+            datawidth: 32000
+            instances: 1
+            metadata_storage_width: 60000
+            metadata_datawidth: 5000
+            metadata_block_size: 12
+
+        - name: input_glb
+          class: storage
+          subclass: smartbuffer_metadata
+          attributes:
+            data_storage_depth: 12800
+            data_storage_width: 12800
+            block_size: 4
+            n_banks: 1
+            read_bandwidth: 3200
+            write_bandwidth: 3200
+            metadata_storage_depth: 6000
+            metadata_storage_width: 6000
+            metadata_block_size: 12
+            metadata_datawidth: 500
+            metadata_counter_width: 9
+            decompression_supported: true  # from DRAM decompression
+            compression_supported: true    # to DRAM compression
+            instances: 1
+        
+        - name: weight_glb
+          class: storage
+          subclass: smartbuffer_metadata
+          attributes:
+            data_storage_depth: 12800
+            data_storage_width: 12800
+            block_size: 4
+            n_banks: 1
+            read_bandwidth: 3200
+            write_bandwidth: 3200
+            metadata_storage_depth: 6000
+            metadata_storage_width: 6000
+            metadata_block_size: 12
+            metadata_datawidth: 500
+            metadata_counter_width: 9
+            decompression_supported: true  # from DRAM decompression
+            compression_supported: true    # to DRAM compression
+            instances: 1
+    
+        - name: output_glb
+          class: storage
+          subclass: smartbuffer_metadata
+          attributes:
+            data_storage_depth: 12800
+            data_storage_width: 12800
+            block_size: 4
+            n_banks: 1
+            read_bandwidth: 3200
+            write_bandwidth: 3200
+            metadata_storage_depth: 6000
+            metadata_storage_width: 6000
+            metadata_block_size: 12
+            metadata_datawidth: 500
+            metadata_counter_width: 9
+            decompression_supported: true  # from DRAM decompression
+            compression_supported: true    # to DRAM compression
+            instances: 1
+
+        
+        
+      subtree:
+        - name: PE[0..195]
+          local:
+            - name: ifmap_spad
+              class: storage
+              subclass: smartbuffer
+              attributes:
+                data_storage_depth: 1200
+                data_storage_width: 3300 # actual data + 1bit mask
+                n_banks: 1
+                datawidth: 3300
+                metadata_storage_depth: 600
+                metadata_storage_width: 600
+                metadata_block_size: 12 
+                metadata_datawidth: 50
+                read_bandwidth: 200
+                write_bandwidth: 200
+                meshX: 14
+
+            - name: psum_spad
+              class: storage
+              subclass: smartbuffer
+              attributes:
+                data_storage_depth: 2400
+                data_storage_width: 32000
+                n_banks: 1
+                datawidth: 32000
+                metadata_storage_depth: 600
+                metadata_storage_width: 600
+                metadata_block_size: 12 
+                metadata_datawidth: 50
+                meshX: 14
+
+            - name: weights_spad
+              class: storage
+              subclass: smartbuffer
+              attributes:
+                data_storage_depth: 2240
+                data_storage_width: 3200
+                n_banks: 1
+                datawidth: 3200
+                metadata_storage_depth: 600
+                metadata_storage_width: 600
+                metadata_block_size: 12 
+                metadata_datawidth: 50
+                read_bandwidth: 200
+                write_bandwidth: 200
+                meshX: 14
+
+
+            - name: MACs
+              class: compute
+              subclass: mac
+              attributes:
+                meshX: 14
+                datawidth: 330000

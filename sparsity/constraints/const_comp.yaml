@@ -1,0 +1,64 @@
+#
+# The following constraints are limitations of the hardware architecture and dataflow
+#
+
+architecture_constraints:
+  targets:
+  # certain buffer only stores certain datatypes
+  - target: ifmap_spad
+    type: bypass
+    bypass: [Weights, Outputs]
+    keep: [Inputs]
+  
+  - target: input_glb
+    type: bypass
+    bypass: [Weights,Outputs] 
+    keep: [Inputs]
+
+  - target: weight_glb
+    type: bypass
+    bypass: [Inputs, Outputs] 
+    keep: [Weights]
+
+  - target: output_glb
+    type: bypass
+    bypass: [Inputs, Weights] 
+    keep: [Outputs]
+
+  # only allow fanout of M, Q out from glb
+  
+
+
+  - permutation:
+    type: temporal
+    target: DRAM
+    factors: M=8 P=2 Q=1 R=1 S=1 N=1 C=8
+    permutation: RPQSCMNG
+
+  - permutation:
+    type: temporal
+    target: input_glb
+    factors: M=1 P=1 Q=2 R=1 S=1 N=1 C=1
+    permutation: MCRSPQN
+
+  - permutation:
+    type: temporal
+    target: weight_glb
+    factors: M=1 P=0 Q=0 R=1 S=1 N=1 C=1
+    permutation: MCRSPQN
+
+  - permutation:
+    type: temporal
+    target: output_glb
+    factors: M=8 P=0 Q=0 R=1 S=1 N=1 C=8
+    permutation: MCRSPQN
+
+  - permutation:
+    type: temporal
+    target: ifmap_spad
+    factors: M=1 P=0 Q=0 R=1 S=1 N=1 C=1
+    permutation: MCPQRSN
+
+  
+
+

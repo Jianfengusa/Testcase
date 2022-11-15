@@ -1,0 +1,165 @@
+[  1] Utilization = 0.01 | pJ/Algorithmic-Compute = 110919603.632 | pJ/Compute = 1106468821.029 | L6[WIO] C2 - L5[I] P56 C128 - L4[O] N1 - L3[W] M256 - L2[I] S3 Q56 - L1[O] R3 - L0[W] N1 
+[  7] Utilization = 0.01 | pJ/Algorithmic-Compute = 104875514.892 | pJ/Compute = 1046176541.546 | L6[WIO] C128 - L5[I] P56 - L4[O] N1 - L3[W] M256 - L2[I] S3 Q56 C2 - L1[O] R3 - L0[W] N1 
+[  5] Utilization = 0.01 | pJ/Algorithmic-Compute = 101849503.632 | pJ/Compute = 1015990830.440 | L6[WIO] C2 - L5[I] P56 C32 - L4[O] N1 - L3[W] M256 - L2[I] S3 Q56 C4 - L1[O] R3 - L0[W] N1 
+[  8] Utilization = 0.01 | pJ/Algorithmic-Compute = 110922403.632 | pJ/Compute = 1106496752.186 | L6[WIO] C128 - L5[I] P56 C2 - L4[O] N1 - L3[W] M256 - L2[I] S3 Q56 - L1[O] R3 - L0[W] N1 
+[ 12] Utilization = 0.01 | pJ/Algorithmic-Compute = 110919648.077 | pJ/Compute = 1106469264.383 | L6[WIO] C4 - L5[I] P56 C64 - L4[O] N1 - L3[W] M256 - L2[I] S3 Q56 - L1[O] R3 - L0[W] N1 
+[  3] Utilization = 0.01 | pJ/Algorithmic-Compute = 104872870.299 | pJ/Compute = 1046150160.636 | L6[WIO] C2 - L5[I] P56 C64 - L4[O] N1 - L3[W] M256 - L2[I] S3 Q56 C2 - L1[O] R3 - L0[W] N1 
+[  7] Utilization = 0.01 | pJ/Algorithmic-Compute = 100844359.337 | pJ/Compute = 1005964101.284 | L6[WIO] C128 - L5[I] P56 - L4[O] N1 - L3[W] M256 - L2[I] Q56 C2 S3 - L1[O] R3 - L0[W] N1 
+[  1] Utilization = 0.01 | pJ/Algorithmic-Compute = 102862781.559 | pJ/Compute = 1026098695.920 | L6[WIO] C2 - L5[I] C128 P56 - L4[O] N1 - L3[W] M256 - L2[I] Q56 S3 - L1[O] R3 - L0[W] N1 
+[  0] Utilization = 0.03 | pJ/Algorithmic-Compute = 135102443.793 | pJ/Compute = 1347702631.514 | L6[WIO] P4 C64 - L5[I] C4 P14 - L4[O] N1 - L3[W] M8 Q2 R3X Q2X - L2[I] M32 S3 Q14 - L1[O] N1 - L0[W] N1 
+[  8] Utilization = 0.01 | pJ/Algorithmic-Compute = 102862781.559 | pJ/Compute = 1026098695.920 | L6[WIO] C128 - L5[I] C2 P56 - L4[O] N1 - L3[W] M256 - L2[I] Q56 S3 - L1[O] R3 - L0[W] N1 
+[  1] Utilization = 0.01 | pJ/Algorithmic-Compute = 102857292.521 | pJ/Compute = 1026043940.505 | L6[WIO] C2 - L5[I] P56 C128 - L4[O] N1 - L3[W] M256 - L2[I] Q56 S3 - L1[O] R3 - L0[W] N1 
+[  5] Utilization = 0.01 | pJ/Algorithmic-Compute = 99833925.854 | pJ/Compute = 995884610.309 | L6[WIO] C2 - L5[I] P56 C32 - L4[O] N1 - L3[W] M256 - L2[I] Q56 C4 S3 - L1[O] R3 - L0[W] N1 
+[ 11] Utilization = 0.03 | pJ/Algorithmic-Compute = 135097063.693 | pJ/Compute = 1347648962.799 | L6[WIO] P4 C16 - L5[I] P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] C16 M32 S3 Q14 - L1[O] N1 - L0[W] N1 
+[  8] Utilization = 0.01 | pJ/Algorithmic-Compute = 102860092.521 | pJ/Compute = 1026071871.662 | L6[WIO] C128 - L5[I] P56 C2 - L4[O] N1 - L3[W] M256 - L2[I] Q56 S3 - L1[O] R3 - L0[W] N1 
+[  3] Utilization = 0.01 | pJ/Algorithmic-Compute = 100841714.743 | pJ/Compute = 1005937720.375 | L6[WIO] C2 - L5[I] P56 C64 - L4[O] N1 - L3[W] M256 - L2[I] Q56 C2 S3 - L1[O] R3 - L0[W] N1 
+[ 10] Utilization = 0.03 | pJ/Algorithmic-Compute = 135102443.793 | pJ/Compute = 1347702631.514 | L6[WIO] P4 C32 - L5[I] C8 P14 - L4[O] N1 - L3[W] M8 Q2 R3X Q2X - L2[I] M32 S3 Q14 - L1[O] N1 - L0[W] N1 
+[ 12] Utilization = 0.01 | pJ/Algorithmic-Compute = 102862781.559 | pJ/Compute = 1026098695.920 | L6[WIO] C4 - L5[I] C64 P56 - L4[O] N1 - L3[W] M256 - L2[I] Q56 S3 - L1[O] R3 - L0[W] N1 
+[  4] Utilization = 0.03 | pJ/Algorithmic-Compute = 135097032.506 | pJ/Compute = 1347648651.697 | L6[WIO] C8 P4 - L5[I] P14 C8 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] C4 M32 S3 Q14 - L1[O] N1 - L0[W] N1 
+[  6] Utilization = 0.03 | pJ/Algorithmic-Compute = 135097032.506 | pJ/Compute = 1347648651.697 | L6[WIO] C8 P4 - L5[I] P14 C16 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] C2 M32 S3 Q14 - L1[O] N1 - L0[W] N1 
+[ 12] Utilization = 0.01 | pJ/Algorithmic-Compute = 102857336.966 | pJ/Compute = 1026044383.859 | L6[WIO] C4 - L5[I] P56 C64 - L4[O] N1 - L3[W] M256 - L2[I] Q56 S3 - L1[O] R3 - L0[W] N1 
+[  0] Utilization = 0.03 | pJ/Algorithmic-Compute = 110922185.228 | pJ/Compute = 1106494573.509 | L6[WIO] P4 C64 - L5[I] C4 P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 M32 S3 - L1[O] N1 - L0[W] N1 
+[  2] Utilization = 0.03 | pJ/Algorithmic-Compute = 135097032.506 | pJ/Compute = 1347648651.697 | L6[WIO] C8 P4 - L5[I] P14 C2 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] C16 M32 S3 Q14 - L1[O] N1 - L0[W] N1 
+[ 11] Utilization = 0.03 | pJ/Algorithmic-Compute = 110916843.078 | pJ/Compute = 1106441283.363 | L6[WIO] C16 P4 - L5[I] P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 C16 M32 S3 - L1[O] N1 - L0[W] N1 
+[ 13] Utilization = 0.03 | pJ/Algorithmic-Compute = 135097210.284 | pJ/Compute = 1347650425.102 | L6[WIO] C16 P4 - L5[I] P14 C4 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] C4 M32 S3 Q14 - L1[O] N1 - L0[W] N1 
+[  9] Utilization = 0.03 | pJ/Algorithmic-Compute = 135097565.840 | pJ/Compute = 1347653971.916 | L6[WIO] C32 P4 - L5[I] P14 C4 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] C2 M32 S3 Q14 - L1[O] N1 - L0[W] N1 
+[ 10] Utilization = 0.03 | pJ/Algorithmic-Compute = 110922185.228 | pJ/Compute = 1106494573.509 | L6[WIO] P4 C32 - L5[I] C8 P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 M32 S3 - L1[O] N1 - L0[W] N1 
+[ 11] Utilization = 0.03 | pJ/Algorithmic-Compute = 99579273.661 | pJ/Compute = 993344349.585 | L6[WIO] P4 C16 - L5[I] P14 - L4[O] N1 - L3[W] M8 Q2 R3X Q2X - L2[I] Q14 M32 C16 S3 - L1[O] N1 - L0[W] N1 
+[  6] Utilization = 0.03 | pJ/Algorithmic-Compute = 110919340.783 | pJ/Compute = 1106466199.004 | L6[WIO] P4 C8 - L5[I] C16 P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 C2 M32 S3 - L1[O] N1 - L0[W] N1 
+[  4] Utilization = 0.03 | pJ/Algorithmic-Compute = 110917918.561 | pJ/Compute = 1106452011.751 | L6[WIO] P4 C8 - L5[I] C8 P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 C4 M32 S3 - L1[O] N1 - L0[W] N1 
+[  1] Utilization = 0.03 | pJ/Algorithmic-Compute = 99201175.050 | pJ/Compute = 989572659.906 | L6[WIO] P4 C8 - L5[I] P14 - L4[O] N1 - L3[W] M8 Q2 R3X Q2X - L2[I] Q14 M32 C32 S3 - L1[O] N1 - L0[W] N1 
+[  2] Utilization = 0.03 | pJ/Algorithmic-Compute = 110916851.894 | pJ/Compute = 1106441371.308 | L6[WIO] P4 C8 - L5[I] C2 P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 C16 M32 S3 - L1[O] N1 - L0[W] N1 
+[  7] Utilization = 0.03 | pJ/Algorithmic-Compute = 100335415.300 | pJ/Compute = 1000887174.490 | L6[WIO] C32 P4 - L5[I] P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 M32 S3 C8 - L1[O] N1 - L0[W] N1 
+[  9] Utilization = 0.03 | pJ/Algorithmic-Compute = 110919340.783 | pJ/Compute = 1106466199.004 | L6[WIO] P4 C32 - L5[I] C4 P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 C2 M32 S3 - L1[O] N1 - L0[W] N1 
+[ 13] Utilization = 0.03 | pJ/Algorithmic-Compute = 110917918.561 | pJ/Compute = 1106452011.751 | L6[WIO] P4 C16 - L5[I] C4 P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 C4 M32 S3 - L1[O] N1 - L0[W] N1 
+[  6] Utilization = 0.03 | pJ/Algorithmic-Compute = 104870134.140 | pJ/Compute = 1046122866.327 | L6[WIO] C8 P4 - L5[I] P14 C16 - L4[O] N1 - L3[W] M8 Q2 R3X Q2X - L2[I] Q14 M32 C2 S3 - L1[O] N1 - L0[W] N1 
+[  4] Utilization = 0.03 | pJ/Algorithmic-Compute = 101846767.474 | pJ/Compute = 1015963536.130 | L6[WIO] C8 P4 - L5[I] P14 C8 - L4[O] N1 - L3[W] M8 Q2 R3X Q2X - L2[I] Q14 M32 C4 S3 - L1[O] N1 - L0[W] N1 
+[  8] Utilization = 0.03 | pJ/Algorithmic-Compute = 101847300.807 | pJ/Compute = 1015968856.349 | L6[WIO] C32 P4 - L5[I] P14 C2 - L4[O] N1 - L3[W] M8 Q2 R3X Q2X - L2[I] Q14 M32 C4 S3 - L1[O] N1 - L0[W] N1 
+[  3] Utilization = 0.03 | pJ/Algorithmic-Compute = 100335423.777 | pJ/Compute = 1000887259.050 | L6[WIO] C8 P4 - L5[I] C4 P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 M32 S3 C8 - L1[O] N1 - L0[W] N1 
+[  2] Utilization = 0.03 | pJ/Algorithmic-Compute = 99579242.474 | pJ/Compute = 993344038.483 | L6[WIO] C8 P4 - L5[I] P14 C2 - L4[O] N1 - L3[W] M8 Q2 R3X Q2X - L2[I] Q14 M32 C16 S3 - L1[O] N1 - L0[W] N1 
+[ 12] Utilization = 0.03 | pJ/Algorithmic-Compute = 100335261.918 | pJ/Compute = 1000885644.436 | L6[WIO] C16 P4 - L5[I] P14 C2 - L4[O] N1 - L3[W] M8 Q2 R3X Q2X - L2[I] Q14 M32 C8 S3 - L1[O] N1 - L0[W] N1 
+[ 13] Utilization = 0.03 | pJ/Algorithmic-Compute = 101846945.251 | pJ/Compute = 1015965309.535 | L6[WIO] C16 P4 - L5[I] P14 C4 - L4[O] N1 - L3[W] M8 Q2 R3X Q2X - L2[I] Q14 M32 C4 S3 - L1[O] N1 - L0[W] N1 
+[  9] Utilization = 0.03 | pJ/Algorithmic-Compute = 104870667.474 | pJ/Compute = 1046128186.545 | L6[WIO] C32 P4 - L5[I] P14 C4 - L4[O] N1 - L3[W] M8 Q2 R3X Q2X - L2[I] Q14 M32 C2 S3 - L1[O] N1 - L0[W] N1 
+[  1] Utilization = 0.03 | pJ/Algorithmic-Compute = 99201119.467 | pJ/Compute = 989572105.447 | L6[WIO] C8 P4 - L5[I] P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 M32 S3 C32 - L1[O] N1 - L0[W] N1 
+[ 11] Utilization = 0.03 | pJ/Algorithmic-Compute = 99579218.078 | pJ/Compute = 993343795.126 | L6[WIO] C16 P4 - L5[I] P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 M32 S3 C16 - L1[O] N1 - L0[W] N1 
+[ 10] Utilization = 0.03 | pJ/Algorithmic-Compute = 110917354.380 | pJ/Compute = 1106446383.810 | L6[WIO] P4 C32 - L5[I] P14 C8 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 M32 S3 - L1[O] N1 - L0[W] N1 
+[  0] Utilization = 0.03 | pJ/Algorithmic-Compute = 110918065.491 | pJ/Compute = 1106453477.439 | L6[WIO] P4 C64 - L5[I] P14 C4 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 M32 S3 - L1[O] N1 - L0[W] N1 
+[ 10] Utilization = 0.01 | pJ/Algorithmic-Compute = 100341083.919 | pJ/Compute = 1000943721.295 | L6[WIO] C8 P28 Q4 M8 - L5[I] C4 P2 - L4[O] N1 - L3[W] M16 Q7 S3 Q2X - L2[I] M2 C8 - L1[O] R3 - L0[W] N1 
+[  2] Utilization = 0.03 | pJ/Algorithmic-Compute = 99579226.555 | pJ/Compute = 993343879.686 | L6[WIO] C8 P4 - L5[I] C2 P14 - L4[O] N1 - L3[W] Q2 M8 R3X Q2X - L2[I] Q14 M32 S3 C16 - L1[O] N1 - L0[W] N1 
+[  0] Utilization = 0.01 | pJ/Algorithmic-Compute = 99584886.696 | pJ/Compute = 993400341.931 | L6[WIO] C4 P28 Q4 M8 - L5[I] C4 P2 - L4[O] N1 - L3[W] M16 Q7 S3 Q2X - L2[I] M2 C16 - L1[O] R3 - L0[W] N1 
+[  8] Utilization = 0.01 | pJ/Algorithmic-Compute = 99206836.974 | pJ/Compute = 989629139.941 | L6[WIO] P28 M8 Q4 C8 - L5[I] P2 - L4[O] N1 - L3[W] M16 Q7 S3 Q2X - L2[I] M2 C32 - L1[O] R3 - L0[W] N1 
+[ 10] Utilization = 0.01 | pJ/Algorithmic-Compute = 100340950.913 | pJ/Compute = 1000942394.509 | L6[WIO] P28 M8 C8 Q4 - L5[I] C4 P2 - L4[O] N1 - L3[W] M16 S3 Q7 Q2X - L2[I] M2 C8 - L1[O] R3 - L0[W] N1 
+[  0] Utilization = 0.01 | pJ/Algorithmic-Compute = 99584753.691 | pJ/Compute = 993399015.145 | L6[WIO] P28 M8 C4 Q4 - L5[I] C4 P2 - L4[O] N1 - L3[W] M16 S3 Q7 Q2X - L2[I] M2 C16 - L1[O] R3 - L0[W] N1 
+[  8] Utilization = 0.01 | pJ/Algorithmic-Compute = 99204293.618 | pJ/Compute = 989603768.911 | L6[WIO] M8 P28 C8 Q4 - L5[I] P2 - L4[O] N1 - L3[W] S3 Q7 M16 Q2X - L2[I] M2 C32 - L1[O] R3 - L0[W] N1 
+[  9] Utilization = 0.01 | pJ/Algorithmic-Compute = 99584886.696 | pJ/Compute = 993400341.931 | L6[WIO] C8 P28 Q4 M8 - L5[I] C2 P2 - L4[O] N1 - L3[W] M16 Q7 S3 Q2X - L2[I] M2 C16 - L1[O] R3 - L0[W] N1 
+[ 10] Utilization = 0.01 | pJ/Algorithmic-Compute = 100340898.201 | pJ/Compute = 1000941868.681 | L6[WIO] C8 Q4 M8 P28 - L5[I] P2 C4 - L4[O] N1 - L3[W] Q7 M16 S3 Q2X - L2[I] M2 C8 - L1[O] R3 - L0[W] N1 
+[  9] Utilization = 0.01 | pJ/Algorithmic-Compute = 99584753.691 | pJ/Compute = 993399015.145 | L6[WIO] P28 M8 C8 Q4 - L5[I] C2 P2 - L4[O] N1 - L3[W] M16 S3 Q7 Q2X - L2[I] M2 C16 - L1[O] R3 - L0[W] N1 
+[ 10] Utilization = 0.01 | pJ/Algorithmic-Compute = 100340889.000 | pJ/Compute = 1000941776.899 | L6[WIO] Q4 C8 M8 P28 - L5[I] P2 C4 - L4[O] N1 - L3[W] M16 Q7 S3 Q2X - L2[I] M2 C8 - L1[O] R3 - L0[W] N1 
+[  0] Utilization = 0.01 | pJ/Algorithmic-Compute = 99582629.577 | pJ/Compute = 993377826.238 | L6[WIO] C4 P28 M8 Q4 - L5[I] C4 P2 - L4[O] N1 - L3[W] S3 Q7 M16 Q2X - L2[I] M2 C16 - L1[O] R3 - L0[W] N1 
+[ 10] Utilization = 0.01 | pJ/Algorithmic-Compute = 100338826.800 | pJ/Compute = 1000921205.602 | L6[WIO] C8 P28 M8 Q4 - L5[I] C4 P2 - L4[O] N1 - L3[W] S3 Q7 M16 Q2X - L2[I] M2 C8 - L1[O] R3 - L0[W] N1 
+[  5] Utilization = 0.04 | pJ/Algorithmic-Compute = 99582695.848 | pJ/Compute = 993378487.316 | L6[WIO] M2 Q2 C16 P14 - L5[I] P4 - L4[O] N1 - L3[W] M32 S3 Q7X - L2[I] M4 Q4 C16 - L1[O] R3 - L0[W] N1 
+[  9] Utilization = 0.01 | pJ/Algorithmic-Compute = 99582629.577 | pJ/Compute = 993377826.238 | L6[WIO] C8 P28 M8 Q4 - L5[I] C2 P2 - L4[O] N1 - L3[W] S3 Q7 M16 Q2X - L2[I] M2 C16 - L1[O] R3 - L0[W] N1 
+[  5] Utilization = 0.04 | pJ/Algorithmic-Compute = 99582241.322 | pJ/Compute = 993373953.226 | L6[WIO] P14 Q2 C16 M2 - L5[I] P4 - L4[O] N1 - L3[W] S3 M32 Q7X - L2[I] M4 Q4 C16 - L1[O] R3 - L0[W] N1 
+[  5] Utilization = 0.04 | pJ/Algorithmic-Compute = 99582206.347 | pJ/Compute = 993373604.339 | L6[WIO] P14 C16 M2 Q2 - L5[I] P4 - L4[O] N1 - L3[W] S3 M32 Q7X - L2[I] Q4 M4 C16 - L1[O] R3 - L0[W] N1 
+[ 12] Utilization = 0.01 | pJ/Algorithmic-Compute = 99330620.803 | pJ/Compute = 990863934.711 | L6[WIO] Q2 P14 C32 - L5[I] P4 - L4[O] N1 - L3[W] Q4 - L2[I] Q7 M256 S3 C8 - L1[O] R3 - L0[W] N1 
+[  5] Utilization = 0.04 | pJ/Algorithmic-Compute = 99582166.901 | pJ/Compute = 993373210.853 | L6[WIO] M2 C16 Q2 P14 - L5[I] P4 - L4[O] N1 - L3[W] S3 M32 Q7X - L2[I] Q4 M4 C16 - L1[O] R3 - L0[W] N1 
+[ 10] Utilization = 0.01 | pJ/Algorithmic-Compute = 99834379.381 | pJ/Compute = 995889134.427 | L6[WIO] P4 M32 C8 - L5[I] P14 C8 - L4[O] N1 - L3[W] Q4 M8 - L2[I] Q14 C4 S3 - L1[O] R3 - L0[W] N1 
+[ 10] Utilization = 0.01 | pJ/Algorithmic-Compute = 99834368.531 | pJ/Compute = 995889026.193 | L6[WIO] M32 C8 P4 - L5[I] P14 C8 - L4[O] N1 - L3[W] Q4 M8 - L2[I] Q14 S3 C4 - L1[O] R3 - L0[W] N1 
+[  6] Utilization = 0.04 | pJ/Algorithmic-Compute = 100338440.414 | pJ/Compute = 1000917351.250 | L6[WIO] Q2 C16 M2 P14 - L5[I] C2 P4 - L4[O] N1 - L3[W] S3 M32 Q7X - L2[I] M4 Q4 C8 - L1[O] R3 - L0[W] N1 
+[ 10] Utilization = 0.01 | pJ/Algorithmic-Compute = 99834267.262 | pJ/Compute = 995888015.986 | L6[WIO] P4 C8 M32 - L5[I] P14 C8 - L4[O] N1 - L3[W] Q4 M8 - L2[I] Q14 S3 C4 - L1[O] R3 - L0[W] N1 
+[ 10] Utilization = 0.07 | pJ/Algorithmic-Compute = 99204047.592 | pJ/Compute = 989601314.703 | L6[WIO] C8 Q4 P2 - L5[I] P28 - L4[O] N1 - L3[W] S3 M128 Q14X - L2[I] M2 C32 - L1[O] R3 - L0[W] N1 
+[  7] Utilization = 0.01 | pJ/Algorithmic-Compute = 99582271.876 | pJ/Compute = 993374258.022 | L6[WIO] C8 P14 Q2 - L5[I] P4 C2 - L4[O] N1 - L3[W] Q4 - L2[I] Q7 S3 M256 C16 - L1[O] R3 - L0[W] N1 
+[  6] Utilization = 0.04 | pJ/Algorithmic-Compute = 100338324.920 | pJ/Compute = 1000916199.144 | L6[WIO] M2 P14 C16 Q2 - L5[I] P4 C2 - L4[O] N1 - L3[W] S3 M32 Q7X - L2[I] M4 Q4 C8 - L1[O] R3 - L0[W] N1 
+[  7] Utilization = 0.01 | pJ/Algorithmic-Compute = 99078377.596 | pJ/Compute = 988347704.624 | L6[WIO] P14 Q2 C8 - L5[I] P4 C2 - L4[O] N1 - L3[W] Q4 - L2[I] Q7 M256 S3 C16 - L1[O] R3 - L0[W] N1 
+[ 13] Utilization = 0.01 | pJ/Algorithmic-Compute = 99834752.596 | pJ/Compute = 995892857.392 | L6[WIO] Q2 P14 C32 - L5[I] P4 C2 - L4[O] N1 - L3[W] Q4 - L2[I] Q7 M256 S3 C4 - L1[O] R3 - L0[W] N1 
+[  4] Utilization = 0.01 | pJ/Algorithmic-Compute = 100843252.596 | pJ/Compute = 1005953061.087 | L6[WIO] Q2 P14 C64 - L5[I] P4 C2 - L4[O] N1 - L3[W] Q4 - L2[I] Q7 M256 S3 C2 - L1[O] R3 - L0[W] N1 
+[  8] Utilization = 0.01 | pJ/Algorithmic-Compute = 99079761.776 | pJ/Compute = 988361512.392 | L6[WIO] P4 C8 M32 - L5[I] P14 C2 - L4[O] N1 - L3[W] M8 Q4 - L2[I] Q14 S3 C16 - L1[O] R3 - L0[W] N1 
+[ 13] Utilization = 0.01 | pJ/Algorithmic-Compute = 99332188.194 | pJ/Compute = 990879570.087 | L6[WIO] M32 C32 P4 - L5[I] P14 - L4[O] N1 - L3[W] M8 Q4 - L2[I] Q14 S3 C8 - L1[O] R3 - L0[W] N1 
+[  6] Utilization = 0.01 | pJ/Algorithmic-Compute = 98952166.636 | pJ/Compute = 987088698.217 | L6[WIO] Q2 P14 C8 - L5[I] P4 - L4[O] N1 - L3[W] Q4 - L2[I] Q7 M256 S3 C32 - L1[O] R3 - L0[W] N1 
+[  0] Utilization = 0.01 | pJ/Algorithmic-Compute = 99330235.929 | pJ/Compute = 990860095.438 | L6[WIO] Q2 P14 C4 - L5[I] P4 C8 - L4[O] N1 - L3[W] Q4 - L2[I] Q7 M256 S3 C8 - L1[O] R3 - L0[W] N1 
+[  6] Utilization = 0.01 | pJ/Algorithmic-Compute = 98952088.825 | pJ/Compute = 987087922.020 | L6[WIO] C8 Q2 P14 - L5[I] P4 - L4[O] N1 - L3[W] Q4 - L2[I] M256 Q7 C32 S3 - L1[O] R3 - L0[W] N1 
+[  4] Utilization = 0.01 | pJ/Algorithmic-Compute = 99836793.750 | pJ/Compute = 995913218.748 | L6[WIO] M32 C64 P4 - L5[I] P14 - L4[O] N1 - L3[W] M8 Q4 - L2[I] Q14 S3 C4 - L1[O] R3 - L0[W] N1 
+[  8] Utilization = 0.01 | pJ/Algorithmic-Compute = 99078526.865 | pJ/Compute = 988349193.644 | L6[WIO] M32 C8 P4 - L5[I] P14 C2 - L4[O] N1 - L3[W] Q4 M8 - L2[I] Q14 S3 C16 - L1[O] R3 - L0[W] N1 
+[  3] Utilization = 0.01 | pJ/Algorithmic-Compute = 99835151.373 | pJ/Compute = 995896835.361 | L6[WIO] Q2 C64 P14 - L5[I] P4 - L4[O] N1 - L3[W] Q4 - L2[I] Q7 M256 S3 C4 - L1[O] R3 - L0[W] N1 
+[ 13] Utilization = 0.01 | pJ/Algorithmic-Compute = 99330759.220 | pJ/Compute = 990865315.485 | L6[WIO] P4 C32 M32 - L5[I] P14 - L4[O] N1 - L3[W] Q4 M8 - L2[I] Q14 S3 C8 - L1[O] R3 - L0[W] N1 
+[  4] Utilization = 0.01 | pJ/Algorithmic-Compute = 99835364.776 | pJ/Compute = 995898964.147 | L6[WIO] P4 C64 M32 - L5[I] P14 - L4[O] N1 - L3[W] Q4 M8 - L2[I] Q14 S3 C4 - L1[O] R3 - L0[W] N1 
+[  9] Utilization = 0.01 | pJ/Algorithmic-Compute = 99331708.998 | pJ/Compute = 990874789.909 | L6[WIO] P4 C8 M32 - L5[I] P14 C4 - L4[O] N1 - L3[W] M8 Q4 - L2[I] Q14 S3 C8 - L1[O] R3 - L0[W] N1 
+[  3] Utilization = 0.01 | pJ/Algorithmic-Compute = 99834279.643 | pJ/Compute = 995888139.491 | L6[WIO] M32 C4 P4 - L5[I] P14 C16 - L4[O] N1 - L3[W] Q4 M8 - L2[I] Q14 S3 C4 - L1[O] R3 - L0[W] N1 
+[  0] Utilization = 0.07 | pJ/Algorithmic-Compute = 99015018.191 | pJ/Compute = 987715668.412 | L6[WIO] Q4 P2 C4 - L5[I] P28 - L4[O] N1 - L3[W] S3 M128 Q14X - L2[I] M2 C64 - L1[O] R3 - L0[W] N1 
+[  9] Utilization = 0.01 | pJ/Algorithmic-Compute = 99330474.087 | pJ/Compute = 990862471.160 | L6[WIO] M32 C8 P4 - L5[I] P14 C4 - L4[O] N1 - L3[W] Q4 M8 - L2[I] Q14 S3 C8 - L1[O] R3 - L0[W] N1 
+[  0] Utilization = 0.07 | pJ/Algorithmic-Compute = 99014998.060 | pJ/Compute = 987715467.605 | L6[WIO] C4 P2 Q4 - L5[I] P28 - L4[O] N1 - L3[W] S3 M128 Q14X - L2[I] M2 C64 - L1[O] R3 - L0[W] N1 
+[  7] Utilization = 0.01 | pJ/Algorithmic-Compute = 98922771.928 | pJ/Compute = 986795473.869 | L6[WIO] P14 M8 C2 Q56 - L5[I] P4 - L4[O] N1 - L3[W] M16 R3 - L2[I] M2 S3 C128 - L1[O] N1 - L0[W] N1 
+[  5] Utilization = 0.01 | pJ/Algorithmic-Compute = 99015147.338 | pJ/Compute = 987716956.714 | L6[WIO] C4 Q2 M8 P4 - L5[I] P14 - L4[O] N1 - L3[W] Q28 R3 M8 - L2[I] M4 S3 C64 - L1[O] N1 - L0[W] N1 
+[  1] Utilization = 0.01 | pJ/Algorithmic-Compute = 99026051.360 | pJ/Compute = 987825728.828 | L6[WIO] M8 P14 Q56 - L5[I] P4 C4 - L4[O] N1 - L3[W] M16 R3 - L2[I] M2 S3 C64 - L1[O] N1 - L0[W] N1 
+[  5] Utilization = 0.01 | pJ/Algorithmic-Compute = 99015146.321 | pJ/Compute = 987716946.563 | L6[WIO] M8 C4 P4 Q2 - L5[I] P14 - L4[O] N1 - L3[W] R3 Q28 M8 - L2[I] M4 S3 C64 - L1[O] N1 - L0[W] N1 
+[  1] Utilization = 0.01 | pJ/Algorithmic-Compute = 99017332.714 | pJ/Compute = 987738756.735 | L6[WIO] M8 P14 Q56 - L5[I] C4 P4 - L4[O] N1 - L3[W] R3 M16 - L2[I] M2 S3 C64 - L1[O] N1 - L0[W] N1 
+[ 12] Utilization = 0.01 | pJ/Algorithmic-Compute = 99086219.537 | pJ/Compute = 988425931.224 | L6[WIO] M256 P28 Q14 - L5[I] P2 C16 - L4[O] N1 - L3[W] Q4 R3 S3 - L2[I] C16 - L1[O] N1 - L0[W] N1 
+[  8] Utilization = 0.01 | pJ/Algorithmic-Compute = 99026111.559 | pJ/Compute = 987826329.335 | L6[WIO] C2 M8 Q56 P14 - L5[I] P4 C2 - L4[O] N1 - L3[W] M16 R3 - L2[I] M2 S3 C64 - L1[O] N1 - L0[W] N1 
+[ 12] Utilization = 0.01 | pJ/Algorithmic-Compute = 99085445.245 | pJ/Compute = 988418207.339 | L6[WIO] P28 M256 Q14 - L5[I] C16 P2 - L4[O] N1 - L3[W] Q4 R3 S3 - L2[I] C16 - L1[O] N1 - L0[W] N1 
+[  4] Utilization = 0.01 | pJ/Algorithmic-Compute = 98878793.643 | pJ/Compute = 986356772.329 | L6[WIO] P28 Q14 M256 - L5[I] P2 - L4[O] N1 - L3[W] S3 Q4 R3 - L2[I] C256 - L1[O] N1 - L0[W] N1 
+[  4] Utilization = 0.01 | pJ/Algorithmic-Compute = 98847300.240 | pJ/Compute = 986042612.639 | L6[WIO] P28 Q14 M256 - L5[I] P2 - L4[O] N1 - L3[W] Q4 S3 R3 - L2[I] C256 - L1[O] N1 - L0[W] N1 
+[ 12] Utilization = 0.01 | pJ/Algorithmic-Compute = 99085040.165 | pJ/Compute = 988414166.507 | L6[WIO] M256 Q14 P28 - L5[I] C16 P2 - L4[O] N1 - L3[W] Q4 S3 R3 - L2[I] C16 - L1[O] N1 - L0[W] N1 
+[  8] Utilization = 0.01 | pJ/Algorithmic-Compute = 99017370.690 | pJ/Compute = 987739135.564 | L6[WIO] C2 M8 Q56 P14 - L5[I] C2 P4 - L4[O] N1 - L3[W] R3 M16 - L2[I] M2 S3 C64 - L1[O] N1 - L0[W] N1 
+[  3] Utilization = 0.01 | pJ/Algorithmic-Compute = 99206382.019 | pJ/Compute = 989624601.574 | L6[WIO] M8 P14 Q56 - L5[I] C8 P4 - L4[O] N1 - L3[W] R3 M16 - L2[I] M2 S3 C32 - L1[O] N1 - L0[W] N1 
+[ 11] Utilization = 0.01 | pJ/Algorithmic-Compute = 99337342.943 | pJ/Compute = 990930990.838 | L6[WIO] M256 Q14 P28 - L5[I] C32 P2 - L4[O] N1 - L3[W] Q4 S3 R3 - L2[I] C8 - L1[O] N1 - L0[W] N1 
+[ 10] Utilization = 0.01 | pJ/Algorithmic-Compute = 98958888.777 | pJ/Compute = 987155754.345 | L6[WIO] Q14 M256 P28 - L5[I] C8 P2 - L4[O] N1 - L3[W] Q4 R3 S3 - L2[I] C32 - L1[O] N1 - L0[W] N1 
+[  6] Utilization = 0.01 | pJ/Algorithmic-Compute = 98926055.969 | pJ/Compute = 986828233.540 | L6[WIO] Q14 P28 M256 - L5[I] C2 P2 - L4[O] N1 - L3[W] S3 Q4 R3 - L2[I] C128 - L1[O] N1 - L0[W] N1 
+[  6] Utilization = 0.01 | pJ/Algorithmic-Compute = 98864275.235 | pJ/Compute = 986211945.220 | L6[WIO] M256 Q14 P28 - L5[I] C2 P2 - L4[O] N1 - L3[W] Q4 S3 R3 - L2[I] C128 - L1[O] N1 - L0[W] N1 
+[ 12] Utilization = 0.01 | pJ/Algorithmic-Compute = 98952260.200 | pJ/Compute = 987089631.555 | L6[WIO] Q2 M2 P28 C8 - L5[I] P2 - L4[O] N1 - L3[W] Q4 - L2[I] M128 Q7 C32 S3 - L1[O] R3 - L0[W] N1 
+[  8] Utilization = 0.01 | pJ/Algorithmic-Compute = 98897259.120 | pJ/Compute = 986540973.086 | L6[WIO] M256 P28 Q14 - L5[I] P2 C4 - L4[O] N1 - L3[W] Q4 R3 S3 - L2[I] C64 - L1[O] N1 - L0[W] N1 
+[  8] Utilization = 0.01 | pJ/Algorithmic-Compute = 98895813.082 | pJ/Compute = 986526548.263 | L6[WIO] Q14 M256 P28 - L5[I] C4 P2 - L4[O] N1 - L3[W] Q4 R3 S3 - L2[I] C64 - L1[O] N1 - L0[W] N1 
+[  8] Utilization = 0.01 | pJ/Algorithmic-Compute = 98894607.011 | pJ/Compute = 986514517.205 | L6[WIO] P28 Q14 M256 - L5[I] C4 P2 - L4[O] N1 - L3[W] Q4 S3 R3 - L2[I] C64 - L1[O] N1 - L0[W] N1 
+[  3] Utilization = 0.01 | pJ/Algorithmic-Compute = 99204270.452 | pJ/Compute = 989603537.820 | L6[WIO] Q2 C4 M2 P28 - L5[I] P2 C2 - L4[O] N1 - L3[W] Q4 - L2[I] S3 M128 Q7 C32 - L1[O] R3 - L0[W] N1 
+[ 13] Utilization = 0.07 | pJ/Algorithmic-Compute = 99015147.339 | pJ/Compute = 987716956.724 | L6[WIO] P8 Q4 C4 M4 - L5[I] P7 - L4[O] N1 - L3[W] S3 Q14X - L2[I] M64 C64 - L1[O] R3 - L0[W] N1 
+[ 13] Utilization = 0.07 | pJ/Algorithmic-Compute = 99015069.723 | pJ/Compute = 987716182.470 | L6[WIO] M4 C4 Q4 P8 - L5[I] P7 - L4[O] N1 - L3[W] S3 Q14X - L2[I] M64 C64 - L1[O] R3 - L0[W] N1 
+[  3] Utilization = 0.01 | pJ/Algorithmic-Compute = 98952322.996 | pJ/Compute = 987090257.973 | L6[WIO] C4 P28 Q2 M2 - L5[I] P2 C2 - L4[O] N1 - L3[W] Q4 - L2[I] Q7 M128 C32 S3 - L1[O] R3 - L0[W] N1 
+[ 11] Utilization = 0.01 | pJ/Algorithmic-Compute = 99208964.785 | pJ/Compute = 989650365.731 | L6[WIO] M256 P28 Q7 C2 - L5[I] C4 P2 - L4[O] N1 - L3[W] Q4 S3 - L2[I] Q2 C32 - L1[O] R3 - L0[W] N1 
+[  3] Utilization = 0.07 | pJ/Algorithmic-Compute = 98920636.156 | pJ/Compute = 986774168.663 | L6[WIO] Q4 M4 P8 C2 - L5[I] P7 - L4[O] N1 - L3[W] S3 Q14X - L2[I] M64 C128 - L1[O] R3 - L0[W] N1 
+[  3] Utilization = 0.07 | pJ/Algorithmic-Compute = 98920553.547 | pJ/Compute = 986773344.607 | L6[WIO] Q4 M4 C2 P8 - L5[I] P7 - L4[O] N1 - L3[W] S3 Q14X - L2[I] M64 C128 - L1[O] R3 - L0[W] N1 
+[  0] Utilization = 0.01 | pJ/Algorithmic-Compute = 98924979.560 | pJ/Compute = 986817495.913 | L6[WIO] Q7 M256 P28 - L5[I] P2 C2 - L4[O] N1 - L3[W] Q4 S3 - L2[I] Q2 C128 - L1[O] R3 - L0[W] N1 
+[  0] Utilization = 0.01 | pJ/Algorithmic-Compute = 98923974.501 | pJ/Compute = 986807470.031 | L6[WIO] P28 Q7 M256 - L5[I] P2 C2 - L4[O] N1 - L3[W] Q4 S3 - L2[I] Q2 C128 - L1[O] R3 - L0[W] N1 
+[ 11] Utilization = 0.04 | pJ/Algorithmic-Compute = 99109566.737 | pJ/Compute = 988658829.177 | L6[WIO] P2 - L5[I] P28 C2 - L4[O] N1 - L3[W] S3 R3 M16 Q8X - L2[I] Q7 M16 C128 - L1[O] N1 - L0[W] N1 
+[  2] Utilization = 0.01 | pJ/Algorithmic-Compute = 99019580.241 | pJ/Compute = 987761176.751 | L6[WIO] M256 P28 Q7 - L5[I] C4 P2 - L4[O] N1 - L3[W] Q4 S3 - L2[I] Q2 C64 - L1[O] R3 - L0[W] N1 
+[  2] Utilization = 0.01 | pJ/Algorithmic-Compute = 99019459.768 | pJ/Compute = 987759974.982 | L6[WIO] Q7 M256 P28 - L5[I] P2 C4 - L4[O] N1 - L3[W] Q4 S3 - L2[I] Q2 C64 - L1[O] R3 - L0[W] N1 
+[  9] Utilization = 0.01 | pJ/Algorithmic-Compute = 99019915.480 | pJ/Compute = 987764520.892 | L6[WIO] M256 P28 Q7 C2 - L5[I] C2 P2 - L4[O] N1 - L3[W] Q4 S3 - L2[I] Q2 C64 - L1[O] R3 - L0[W] N1 
+[ 13] Utilization = 0.02 | pJ/Algorithmic-Compute = 98889066.594 | pJ/Compute = 986459249.254 | L6[WIO] M4 P2 C2 - L5[I] C2 P28 - L4[O] N1 - L3[W] Q7 M8 Q4X - L2[I] Q2 M8 C64 S3 - L1[O] R3 - L0[W] N1 
+[  5] Utilization = 0.01 | pJ/Algorithmic-Compute = 98955401.742 | pJ/Compute = 987120969.732 | L6[WIO] M32 C8 Q4 P4 - L5[I] P14 - L4[O] N1 - L3[W] M8 Q7 Q2X - L2[I] S3 C32 - L1[O] R3 - L0[W] N1 
+[  5] Utilization = 0.01 | pJ/Algorithmic-Compute = 98955332.380 | pJ/Compute = 987120277.818 | L6[WIO] Q4 C8 P4 M32 - L5[I] P14 - L4[O] N1 - L3[W] M8 Q7 Q2X - L2[I] S3 C32 - L1[O] R3 - L0[W] N1 
+[  5] Utilization = 0.01 | pJ/Algorithmic-Compute = 98952686.742 | pJ/Compute = 987093886.487 | L6[WIO] Q4 P4 C8 M32 - L5[I] P14 - L4[O] N1 - L3[W] Q7 M8 Q2X - L2[I] S3 C32 - L1[O] R3 - L0[W] N1 
+[  2] Utilization = 0.04 | pJ/Algorithmic-Compute = 98968255.402 | pJ/Compute = 987249190.292 | L6[WIO] P8 M16 - L5[I] P7 - L4[O] N1 - L3[W] S3 M2 R3 Q4 Q7X - L2[I] Q2 M8 C256 - L1[O] N1 - L0[W] N1 
+[  2] Utilization = 0.04 | pJ/Algorithmic-Compute = 98968003.399 | pJ/Compute = 987246676.463 | L6[WIO] M16 P8 - L5[I] P7 - L4[O] N1 - L3[W] S3 Q4 R3 M2 Q7X - L2[I] Q2 M8 C256 - L1[O] N1 - L0[W] N1 
+[ 11] Utilization = 0.07 | pJ/Algorithmic-Compute = 98952289.989 | pJ/Compute = 987089928.710 | L6[WIO] P7 C4 M8 - L5[I] P8 C2 - L4[O] N1 - L3[W] Q4 M4 Q14X - L2[I] M8 C32 S3 - L1[O] R3 - L0[W] N1 
+[  3] Utilization = 0.04 | pJ/Algorithmic-Compute = 98920512.416 | pJ/Compute = 986772934.309 | L6[WIO] C2 P7 M2 Q4 - L5[I] P8 - L4[O] N1 - L3[W] S3 Q2 M128 Q7X - L2[I] C128 - L1[O] R3 - L0[W] N1 
+[  3] Utilization = 0.04 | pJ/Algorithmic-Compute = 98920494.784 | pJ/Compute = 986772758.424 | L6[WIO] C2 M2 Q4 P7 - L5[I] P8 - L4[O] N1 - L3[W] Q2 S3 M128 Q7X - L2[I] C128 - L1[O] R3 - L0[W] N1 
+[  3] Utilization = 0.04 | pJ/Algorithmic-Compute = 98862451.187 | pJ/Compute = 986193749.589 | L6[WIO] P7 M2 C2 Q4 - L5[I] P8 - L4[O] N1 - L3[W] M128 Q2 S3 Q7X - L2[I] C128 - L1[O] R3 - L0[W] N1 
+[ 10] Utilization = 0.07 | pJ/Algorithmic-Compute = 98889613.318 | pJ/Compute = 986464703.051 | L6[WIO] P7 M8 C4 - L5[I] P8 - L4[O] N1 - L3[W] M4 Q4 Q14X - L2[I] M8 S3 C64 - L1[O] R3 - L0[W] N1 
+[ 10] Utilization = 0.07 | pJ/Algorithmic-Compute = 98889585.627 | pJ/Compute = 986464426.823 | L6[WIO] P7 C4 M8 - L5[I] P8 - L4[O] N1 - L3[W] M4 Q4 Q14X - L2[I] M8 S3 C64 - L1[O] R3 - L0[W] N1 
+[  1] Utilization = 0.04 | pJ/Algorithmic-Compute = 98956594.131 | pJ/Compute = 987132864.301 | L6[WIO] C2 P56 - L5[I] C4 - L4[O] N1 - L3[W] M256 Q8 S3 R3 Q7X - L2[I] C32 - L1[O] N1 - L0[W] N1 
+[  8] Utilization = 0.04 | pJ/Algorithmic-Compute = 98893496.363 | pJ/Compute = 986503438.028 | L6[WIO] C4 P56 - L5[I] N1 - L4[O] N1 - L3[W] M256 Q8 S3 R3 Q7X - L2[I] C64 - L1[O] N1 - L0[W] N1 
+[  1] Utilization = 0.07 | pJ/Algorithmic-Compute = 98889701.901 | pJ/Compute = 986465586.710 | L6[WIO] C2 M8 P7 - L5[I] P8 C2 - L4[O] N1 - L3[W] M4 Q4 Q14X - L2[I] M8 S3 C64 - L1[O] R3 - L0[W] N1 
+[  0] Utilization = 0.07 | pJ/Algorithmic-Compute = 98858053.092 | pJ/Compute = 986149876.773 | L6[WIO] M8 C2 P7 - L5[I] P8 - L4[O] N1 - L3[W] M4 Q4 Q14X - L2[I] M8 S3 C128 - L1[O] R3 - L0[W] N1 
+[ 11] Utilization = 0.07 | pJ/Algorithmic-Compute = 98920515.635 | pJ/Compute = 986772966.415 | L6[WIO] M4 P2 C2 - L5[I] P28 - L4[O] N1 - L3[W] Q2 S3 Q14X - L2[I] Q2 M64 C128 - L1[O] R3 - L0[W] N1 
+[ 11] Utilization = 0.07 | pJ/Algorithmic-Compute = 98920512.357 | pJ/Compute = 986772933.716 | L6[WIO] C2 M4 P2 - L5[I] P28 - L4[O] N1 - L3[W] Q2 S3 Q14X - L2[I] Q2 M64 C128 - L1[O] R3 - L0[W] N1 
+[ 12] Utilization = 0.01 | pJ/Algorithmic-Compute = 98921461.079 | pJ/Compute = 986782397.609 | L6[WIO] P8 Q2 M128 - L5[I] C2 P7 - L4[O] N1 - L3[W] Q2 R3 Q2X - L2[I] Q7 M2 C128 S3 - L1[O] N1 - L0[W] N1 
+[  9] Utilization = 0.01 | pJ/Algorithmic-Compute = 99015144.513 | pJ/Compute = 987716928.527 | L6[WIO] M8 C4 Q2 P2 - L5[I] P28 - L4[O] N1 - L3[W] R3 Q28 M8 - L2[I] M4 S3 C64 - L1[O] N1 - L0[W] N1 
+[  9] Utilization = 0.04 | pJ/Algorithmic-Compute = 99014998.735 | pJ/Compute = 987715474.332 | L6[WIO] C4 Q8 P8 - L5[I] P7 - L4[O] N1 - L3[W] S3 M2 Q7X - L2[I] M128 C64 - L1[O] R3 - L0[W] N1 
+[ 12] Utilization = 0.04 | pJ/Algorithmic-Compute = 98920645.757 | pJ/Compute = 986774264.443 | L6[WIO] C2 Q2 M16 - L5[I] P56 - L4[O] N1 - L3[W] R3 Q2 Q7X - L2[I] M16 Q2 C128 S3 - L1[O] N1 - L0[W] N1 
+[  2] Utilization = 0.04 | pJ/Algorithmic-Compute = 98873429.658 | pJ/Compute = 986303264.368 | L6[WIO] M16 Q2 - L5[I] P56 - L4[O] N1 - L3[W] Q2 R3 Q7X - L2[I] Q2 M16 S3 C256 - L1[O] N1 - L0[W] N1 
+[  2] Utilization = 0.04 | pJ/Algorithmic-Compute = 98873383.431 | pJ/Compute = 986302803.231 | L6[WIO] Q2 M16 - L5[I] P56 - L4[O] N1 - L3[W] R3 Q2 Q7X - L2[I] Q2 M16 C256 S3 - L1[O] N1 - L0[W] N1 
+[  7] Utilization = 0.02 | pJ/Algorithmic-Compute = 98918055.210 | pJ/Compute = 986748422.664 | L6[WIO] Q4 P8 C2 M2 - L5[I] P7 - L4[O] N1 - L3[W] M32 Q14 R3X - L2[I] M4 S3 C128 - L1[O] N1 - L0[W] N1 
+[  7] Utilization = 0.02 | pJ/Algorithmic-Compute = 98917586.334 | pJ/Compute = 986743745.433 | L6[WIO] Q4 M2 C2 P8 - L5[I] P7 - L4[O] N1 - L3[W] Q14 M32 R3X - L2[I] M4 C128 S3 - L1[O] N1 - L0[W] N1 
+Interrupt caught. Mapper threads will terminate after completing any ongoing evaluations.
+[  4] STATEMENT: global termination flag activated, terminating search.
+[  7] STATEMENT: global termination flag activated, terminating search.
+[ 11] STATEMENT: global termination flag activated, terminating search.
+[  9] STATEMENT: global termination flag activated, terminating search.
+[  6] STATEMENT: global termination flag activated, terminating search.
+[  1] STATEMENT: global termination flag activated, terminating search.
+[ 10] STATEMENT: global termination flag activated, terminating search.
+[ 12] STATEMENT: global termination flag activated, terminating search.
+[  5] STATEMENT: global termination flag activated, terminating search.
+[  0] STATEMENT: global termination flag activated, terminating search.
+[  3] STATEMENT: global termination flag activated, terminating search.
+[ 13] STATEMENT: global termination flag activated, terminating search.
+[  2] STATEMENT: global termination flag activated, terminating search.
+[  8] STATEMENT: global termination flag activated, terminating search.

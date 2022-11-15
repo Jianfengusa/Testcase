@@ -1,0 +1,81 @@
+#
+# The following constraints are limitations of the hardware architecture and dataflow
+#
+
+architecture_constraints:
+  targets:
+  # certain buffer only stores certain datatypes
+  - target: psum_spad
+    type: bypass
+    bypass: [Inputs, Weights]
+    keep: [Outputs]
+
+  - target: weights_spad
+    type: bypass
+    bypass: [Inputs, Outputs]
+    keep: [Weights]
+
+  - target: ifmap_spad
+    type: bypass
+    bypass: [Weights, Outputs]
+    keep: [Inputs]
+  
+  - target: input_glb
+    type: bypass
+    bypass: [Weights,Outputs] 
+    keep: [Inputs]
+
+  - target: weight_glb
+    type: bypass
+    bypass: [Inputs, Outputs] 
+    keep: [Weights]
+
+  - target: output_glb
+    type: bypass
+    bypass: [Inputs, Weights] 
+    keep: [Outputs]
+
+  # only allow fanout of M, Q out from glb
+  
+  - split: 5
+    permutation: NPQR SCM
+    type: spatial
+    target: output_glb
+    factors: N1 M1 C8 P1 Q1 R1 S3
+
+  - permutation:
+    type: temporal
+    target: weights_spad
+    factors: N1 C8 P7 Q1 R3 S1 M1
+
+  - permutation:
+    type: temporal
+    target: psum_spad
+    factors: N1 M2 P1 Q1 S1 C1 R1
+
+  - permutation:
+    type: temporal
+    target: ifmap_spad
+    factors: N1 M1 C1 P1 Q1 R1 S1
+
+  - permutation:
+    type: temporal
+    target: weight_glb
+    factors: N1 C1 P1 Q1 R1 S1 M1
+
+  - permutation:
+    type: temporal
+    target: input_glb
+    factors: N1 C1 P1 Q14 R1 S1 M4
+
+  - permutation:
+    type: temporal
+    target: output_glb
+    factors: N1 C1 P2 Q1 R1 S1 M1
+
+  - permutation:
+    type: temporal
+    target: DRAM 
+    factors: N1 C1 P1 Q1 R1 S1 M8
+
+

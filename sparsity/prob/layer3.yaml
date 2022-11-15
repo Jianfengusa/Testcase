@@ -1,0 +1,79 @@
+problem:
+  instance:
+    C: 64
+    M: 64
+    N: 1
+    P: 14
+    Q: 14
+    R: 3
+    S: 3
+    densities:
+      Inputs: 
+        #random_1
+        # distribution: hypergeometric
+        # density: 0.275
+        #random_1
+        #random_2
+        distribution: hypergeometric
+        density: 0.01
+        #random_2
+      Weights: 
+        #random_1
+        # distribution: hypergeometric
+        # density: 0.346133
+        #random_1
+        #random_2
+        distribution: hypergeometric
+        density: 0.01
+        #random_2
+      Outputs: 
+        #random_1
+        # distribution: hypergeometric
+        # density: 0.5
+        #random_1
+        #random_2
+        distribution: hypergeometric
+        density: 0.01
+        #random_2
+
+  shape:
+    coefficients:
+    - default: 1
+      name: Wstride
+    - default: 1
+      name: Hstride
+    - default: 1
+      name: Wdilation
+    - default: 1
+      name: Hdilation
+    data-spaces:
+    - name: Weights
+      projection:
+      - - - C
+      - - - M
+      - - - R
+      - - - S
+    - name: Inputs
+      projection:
+      - - - C
+      - - - R
+        - - P
+      - - - S
+        - - Q
+      - - - N
+    - name: Outputs
+      projection:
+      - - - M
+      - - - Q
+      - - - P
+      - - - N
+      read-write: true
+    dimensions:
+    - C
+    - M
+    - R
+    - S
+    - P
+    - Q
+    - N
+    name: CNN-Layer
